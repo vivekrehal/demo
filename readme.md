@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 int arr[9];
+   int b;
 for (int i = 0; i < 9; i++)
 {
    cin>>arr[i];
